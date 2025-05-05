@@ -130,7 +130,7 @@
             addButton.TabIndex = 50;
             addButton.Text = "Добавить";
             addButton.UseVisualStyleBackColor = true;
-            addButton.Click += addButton_Click;
+         //   addButton.Click += addButton_Click;
             // 
             // label11
             // 
@@ -330,7 +330,7 @@
             deleteButton.TabIndex = 66;
             deleteButton.Text = "Удалить";
             deleteButton.UseVisualStyleBackColor = true;
-            deleteButton.Click += deleteButton_Click;
+          //  deleteButton.Click += deleteButton_Click;
             // 
             // groupBox2
             // 
@@ -354,7 +354,7 @@
             showAllButton.TabIndex = 1;
             showAllButton.Text = "Вывести все элементы";
             showAllButton.UseVisualStyleBackColor = true;
-            showAllButton.Click += showAllButton_Click;
+        //    showAllButton.Click += showAllButton_Click;
             // 
             // showTable
             // 
@@ -380,7 +380,7 @@
             MinimumSize = new Size(350, 799);
             Name = "FormContainerLb2";
             Text = "Lb8";
-            Load += Form1_Load;
+        //    Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)year_of_birth).EndInit();
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
